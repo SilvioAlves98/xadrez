@@ -1,14 +1,6 @@
-namespace tabuleiro
-{
-    public class Cor
-    {
-    }
-}
+namespace tabuleiro {
 
-namespace tabuleiro
-{
-    enum cor
-    {
+       enum cor {
       Branca,
       Preta,
       Amarela,
@@ -17,4 +9,4 @@ namespace tabuleiro
       Verde,
       Laranja
     }
-}
+ }
